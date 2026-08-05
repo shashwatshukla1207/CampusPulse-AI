@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse AI",
+  "description": "AI-powered Campus Intelligence Platform that transforms scattered student feedback into actionable insights for college administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
